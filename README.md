@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://arjunindia.github.io/frontendmentor-p3/](https://arjunindia.github.io/frontendmentor-p3/)
 
 ## My process
 
